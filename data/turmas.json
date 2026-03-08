@@ -1,0 +1,32 @@
+[
+    {
+        "id": "0",
+        "nome": "ADMIN",
+        "ano_letivo": "",
+        "ativa": true
+    },
+    {
+        "id": "1",
+        "nome": "3º/4ª M",
+        "ano_letivo": "",
+        "ativa": true
+    },
+    {
+        "id": "2",
+        "nome": "5º/9º M",
+        "ano_letivo": "",
+        "ativa": true
+    },
+    {
+        "id": "3",
+        "nome": "3º/4ª V",
+        "ano_letivo": "",
+        "ativa": true
+    },
+    {
+        "id": "4",
+        "nome": "5º/9º V",
+        "ano_letivo": "",
+        "ativa": true
+    }
+]
