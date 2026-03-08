@@ -1,2 +1,2 @@
-# Jogo-de-Digita-o
+# Jogo-de-Digitação
 arquivos do jogo de treino de digitação
